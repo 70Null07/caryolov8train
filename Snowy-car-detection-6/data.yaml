@@ -1,0 +1,12 @@
+names:
+- car
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: snowy-car-detection
+  url: https://universe.roboflow.com/snowy-car-detection/snowy-car-detection/dataset/6
+  version: 6
+  workspace: snowy-car-detection
+test: ../test/images
+train: Snowy-car-detection-6/train/images
+val: Snowy-car-detection-6/valid/images
